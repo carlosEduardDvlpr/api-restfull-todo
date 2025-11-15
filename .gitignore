@@ -1,2 +1,4 @@
 node_modules
 .env
+/src/infra/migrations
+/src/infra/database.db
